@@ -1,7 +1,5 @@
 # Currency Converter
 
-Live demo: https://currency-converter-5kt.pages.dev/
-
 Reqs: NodeJS 16+
 
 Setup: `npm ci`
