@@ -1,0 +1,15 @@
+{
+  "name": "currencyconverter",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "Alex So",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^4.4.7"
+  }
+}
