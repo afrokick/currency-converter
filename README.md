@@ -6,6 +6,8 @@ Setup: `npm ci`
 
 Run: `npm run dev`
 
+http://localhost:5173/
+
 ## Important
 
 Works only on Chrome 106+ (cause of `trailingZeroDisplay` for Intl.NumberFormat)
